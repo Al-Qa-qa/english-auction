@@ -4,20 +4,6 @@ pragma solidity 0.8.18;
 import {IERC721} from "@openzeppelin/contracts/interfaces/IERC721.sol";
 import "hardhat/console.sol"; // used in testing chains
 
-/*
-  To be done:
-
-  - prevent the seller from bidding ✅️
-  - make end auction function taht can be fired only by the seller ✅️
-  - refactor and comment the code ✅️
-  - refactor our tests ✅️
-  - make scripts 
-  - congratulations
-
- */
-
-// ---
-
 error EnglishAuction__InvalidAddress();
 error EnglishAuction__NotOwner(address nftAddress, uint256 tokenId, address seller);
 error EnglishAuction__NotApproved(address nftAddress, uint256 tokenId, address owner);
