@@ -57,7 +57,7 @@ The smart contract is built using hardhat framework, ethersjs, and some other pa
 
 * [![Soliditylang][Solidity]][Solidity-url]
 * [![Hardhat][Hardhat]][Hardhat-url]
-
+* [![Openzeppelin-contracts][Openzeppelin]][Openzeppelin-url]
 
 
 <!-- GETTING STARTED -->
@@ -119,7 +119,7 @@ This project is under the MIT License. See `LICENSE` for more information.
 
 Al-Qa'qa' - [@Al_Qa_qa](https://twitter.com/Al_Qa_qa) - alqaqa.fighter@gmail.com
 
-Project Link: [https://github.com/Al-Qa-qa/multisigwallet](https://github.com/Al-Qa-qa/multisigwallet)
+Project Link: [https://github.com/Al-Qa-qa/english-auction](https://github.com/Al-Qa-qa/english-auction)
 
 
 
@@ -159,3 +159,5 @@ We would like to apologize if we used a free package or service and forgot to me
 [Hardhat-url]: https://hardhat.org/
 [Chainlink]: https://img.shields.io/badge/chainlink-375BD2?style=for-the-badge&logo=chainlink&logoColor=white
 [Chainlink-url]: https://chain.link/
+[Openzeppelin]: https://img.shields.io/badge/open_zeppelin-412991?style=for-the-badge&logo=openzeppelin&logoColor=white
+[Openzeppelin-url]: https://www.openzeppelin.com/contracts
